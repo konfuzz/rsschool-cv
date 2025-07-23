@@ -49,3 +49,8 @@ echo "Hello, World!";
 
 #### Freelance (2021 - Present)
 
+## Education
+
+### University of Somewhere
+
+- Degree: Bachelor of Nothing
