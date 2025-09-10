@@ -20,3 +20,37 @@ I'm a web developer with a passion for creating user-friendly and accessible web
 - **Git**: Intermediate
 - **GitHub**: Intermediate
 - **WordPress**: Intermediate
+
+## Code Examples
+
+```html
+<h1>Hello, World!</h1>
+```
+
+```css
+body {
+  background-color: red;
+}
+```
+
+```javascript
+console.log("Hello, World!");
+```
+
+```php
+<?php
+echo "Hello, World!";
+?>
+```
+
+## Experience
+
+### Web Developer
+
+#### Freelance (2021 - Present)
+
+## Education
+
+### University of Somewhere
+
+- Degree: Bachelor of Nothing
