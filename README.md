@@ -1,2 +1,2 @@
 # rsschool-cv
-[My CV](https://konfuzz.github.io/rsschool-cv/cv)
+[My CV](https://konfuzz.github.io/rsschool-cv/)
