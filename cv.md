@@ -29,7 +29,7 @@ I'm a web developer with a passion for creating user-friendly and accessible web
 
 ```css
 body {
-  background-color: red;
+  background-color: white;
 }
 ```
 
